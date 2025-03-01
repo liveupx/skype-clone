@@ -244,7 +244,8 @@ For questions, customization requests, or issues:
 ---
 
 <p align="center">
-  <img src="./screenshots/liveupx-logo.png" alt="LiveupX Logo" width="200">
+  <img src="(https://liveupx.com/wp-content/uploads/2023/10/liveupx185x44.png)" alt="LiveupX Logo" width="200">
+  <img src="" alt="LiveupX Logo" width="200">
   <br>
   <em>Developed with ❤️ by <a href="https://liveupx.com">LiveupX</a></em>
 </p>
