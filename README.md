@@ -6,7 +6,8 @@
 
 A complete white-label solution for building your own video/audio conferencing platform similar to Skype. This repository contains the source code and documentation for LiveupX's Skype Clone, a powerful and feature-rich communication platform that supports video calls, audio calls, messaging, file sharing, and more.
 
-![Skype Clone Demo](./screenshots/demo.png)
+![Skype Clone Demo](ss1.png) 
+![Skype Clone Demo](ss2.png) 
 
 ## 🚀 Features
 
