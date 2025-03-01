@@ -9,6 +9,7 @@ A complete white-label solution for building your own video/audio conferencing p
 ![Skype Clone Demo](ss1.png) 
 ![Skype Clone Demo](ss2.png) 
 
+
 ## 🚀 Features
 
 ### Core Communication Features
@@ -234,6 +235,7 @@ For questions, customization requests, or issues:
 - **Email**: info@liveupx.com
 - **WhatsApp**: +91-7060371701
 - **Website**: [Liveupx.com](https://liveupx.com)
+- **Landing page demo**: [Check Landing page] (https://skype-clone.pages.dev)
 - **GitHub Issues**: For bug reports and feature requests
 
 ## 🔗 Related Projects
